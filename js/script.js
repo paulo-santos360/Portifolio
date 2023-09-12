@@ -8,8 +8,6 @@ function openNav(){
     } else{
         x.className = "navigation";
         document.getElementById("threeline-icon").innerHTML = "&#9776;"
-
-
     }
 
 }
